@@ -1,2 +1,2 @@
 # amadzigbodiagbodra.github.io
-Practical insights from product operations, fintech, digital payments, and business analysis, plus a portfolio of my work.
+A professional blog and portfolio sharing practical experiences and insights in product operations, fintech, digital payments, and business analysis.
